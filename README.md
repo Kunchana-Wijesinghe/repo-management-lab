@@ -1,4 +1,4 @@
 Repository Management Lab
 
 ## Notes
-This note was added from the main branch.
+This note combines updates from the main and feature-info branches.
